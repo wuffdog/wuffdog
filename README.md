@@ -2,6 +2,6 @@
 
 Electrical engineering student & Corgi-dog furry
 
-Some of my projects from the university are improper to be open sourced. 
+Course projects from university are improper for open source. 
 
 So I'm thinking to build something else... 
