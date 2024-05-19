@@ -1,5 +1,3 @@
-### Hi there 👋
+# Gara Wuff
 
-Electrical engineering student / Husky furry / Bluey lover
-
-Trying to learn and build something... 
+corgski, lime flavor, only in summer
